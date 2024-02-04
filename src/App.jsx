@@ -1,9 +1,9 @@
-import List from "./tutorial/08-custom-hooks/starter/02-fetch-data";
+import Final from "./tutorial/09-context-api/starter/prop-drilling/Navbar";
 
 function App() {
   return (
     <div className="container">
-      <List />
+      <Final />
     </div>
   );
 }
