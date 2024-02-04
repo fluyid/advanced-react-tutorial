@@ -1,4 +1,4 @@
-import Final from "./tutorial/09-context-api/starter/prop-drilling/Navbar";
+import Final from "./tutorial/09-context-api/starter/context-api/Navbar";
 
 function App() {
   return (
